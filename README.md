@@ -9,3 +9,5 @@ If you are updating code please commit your changes with this name: *Update*
 If you are improving code, please use: *Improvement*
 
 Anything else, use: *Misc*
+
+(If your code has been used, you will be written down on a list of contributers included on the finished result 🙂)
